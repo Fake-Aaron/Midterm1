@@ -54,7 +54,7 @@ export function FeatureTabs() {
           ))}
         </div>
 
-        <article className="overflow-hidden flex-1 shrink px-8 pt-8 rounded-xl border border-solid basis-0 bg-zinc-50 bg-opacity-0 border-white border-opacity-10 h-[482px] min-h-[135px] min-w-60 max-md:px-5 max-md:max-w-full">
+        <article className="overflow-hidden flex-1 shrink px-8 pt-8 rounded-xl basis-0 bg-zinc-1000 bg-opacity-0 border-white border-opacity-10 h-[482px] min-h-[135px] min-w-60 max-md:px-5 max-md:max-w-full">
           <img
             src={tabItems.find((tab) => tab.id === activeTab)?.content}
             className="object-contain w-full rounded-xl aspect-[1.77] max-md:max-w-full"
