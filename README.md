@@ -1,6 +1,8 @@
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Project Structure
+
+```bash
 midterm-proj2/ 
 ├── app/ # App Router structure 
 │ ├── globals.css # Tailwind CSS entry point
@@ -14,6 +16,7 @@ midterm-proj2/
 ├── package.json # Project dependencies and scripts 
 ├── other configs
 └── README.md # This file!
+```
 
 ## 🛠️ Setup Instructions
 
@@ -58,7 +61,7 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 ## Design Source
 
 This project uses a template design from figma (somewhat) for inspiration and general theming
-You can check out the figma design used here
+. You can check out the figma design used here
 
 - [Figma Design Template](https://www.figma.com/design/Pyo2HzDNXY7O59Hr3RHP9K/Launch-UI-–-Landing-Page-Templates---Components--Community-?node-id=59-1931&p=f&t=TOzoh0RhWBT17Srg-0)
 
